@@ -14,12 +14,12 @@
 }
 
 
-.chem-element[data-element="neon"]::before {
-    content: '10';
+.chem-element[data-element="potassium"]::before {
+    content: '19';
     font-size: 0.45em;
     vertical-align: -0.5em;
 }
 
-.chem-element[data-element="neon"]:hover {
+.chem-element[data-element="potassium"]:hover {
     background: #faa3a3;
 }
