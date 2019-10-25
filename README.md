@@ -1,4 +1,5 @@
 # ~/amphineko
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32b0f124-880c-4a10-bece-1066829ccd9a/deploy-status)](https://app.netlify.com/sites/kkrenbio/deploys)
 
 This repository is a development copy of my homepage ([https://futa.moe/amphineko/](https://futa.moe/amphineko/)), which can be used as a template.
 
